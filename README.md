@@ -5,7 +5,7 @@
 
 An information system for running an online fashion store: a customer interface for browsing and buying, and a management interface for inventory, orders, deliveries and settings.
 
-Developed by Radyeh Moussa and Tasnim Bakli .
+Developed by Radyeh Moussa and Tasnim Bakli.
 
 For how to actually use the system, see [`USER_GUIDE.md`](./USER_GUIDE.md).
 
