@@ -2,11 +2,10 @@
 
 [![CI](https://github.com/tasneembaqli04-jpg/fashion-sync-react/actions/workflows/ci.yml/badge.svg)](https://github.com/tasneembaqli04-jpg/fashion-sync-react/actions/workflows/ci.yml)
 
-🔗 **Live site:** [fashionsync-dc79f.web.app](https://fashionsync-dc79f.web.app)
 
 An information system for running an online fashion store: a customer interface for browsing and buying, and a management interface for inventory, orders, deliveries and settings.
 
-Developed by Radyeh Moussa ([REDACTED]) and Tasnim Bakli ([REDACTED]).
+Developed by Radyeh Moussa and Tasnim Bakli .
 
 For how to actually use the system, see [`USER_GUIDE.md`](./USER_GUIDE.md).
 
